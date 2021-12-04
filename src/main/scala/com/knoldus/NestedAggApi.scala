@@ -23,7 +23,7 @@ trait NestedAggApi {
   /**
    * This method returns a list of genres of authors with a number of document matches
    * @param client
-   * @return the result
+   * @return
    */
   def getAggregateByGenre(client: Client) = {
     val searchResponse = client.prepareSearch().setSearchType("count").setIndices("authors")
