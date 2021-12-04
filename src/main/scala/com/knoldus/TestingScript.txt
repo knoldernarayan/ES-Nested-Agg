@@ -1,1 +1,1 @@
-This is HTTP request based Testing Script for staging server.
+This is HTTP request based Testing Script for server.
