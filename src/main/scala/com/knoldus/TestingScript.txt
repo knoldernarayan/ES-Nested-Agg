@@ -1,1 +1,1 @@
-Testing Script
+This is the Testing Script for staging server.
